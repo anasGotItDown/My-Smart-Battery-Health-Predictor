@@ -27,6 +27,7 @@ A Machine Learning web application that predicts smartphone battery health based
 
 - Logistic Regression
 - Decision Tree
+- SVM
 - Random Forest
 - Gradient Boosting
 
